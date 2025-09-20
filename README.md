@@ -37,7 +37,8 @@ Predicted Weight: ~384.6 g
 
 📊 Visualization
 
-Model performance (Actual vs Predicted Fish Weight):
+Model performance (Actual vs Predicted Fish Weight): 
+![Fish Growth Graph](fish_growth_graph.png)
 
 
 🚀 Future Work
